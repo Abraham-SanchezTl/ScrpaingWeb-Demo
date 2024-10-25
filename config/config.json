@@ -1,0 +1,33 @@
+{
+    "database": {
+        "user": "user",
+        "password": "pass",
+        "host": "192.0.0.000",
+        "database": "database"
+    },
+    "explore_settings": {
+        "pages": [
+            14,
+            15,
+            1
+        ]
+    },
+    "update_data_settings": {
+        "interes": [
+            2,
+            5,
+            3,
+            8,
+            1
+        ],
+        "Min": 0,
+        "fecha_inicio": "2024-10-11",
+        "fecha_fin": "2024-10-19"
+    },
+    "upload_publications_settings": {
+        "path_file": ""
+    },
+    "update_publications_settings": {
+        "path_file": ""
+    }
+}
